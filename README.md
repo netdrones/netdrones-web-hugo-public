@@ -1,9 +1,10 @@
-# Responsible.org Website
+# SF Stroke Center Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4d01dfea-e30a-4331-923e-5a285fc5db55/deploy-status)](https://app.netlify.com/sites/responsible/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/275af3c3-9f6f-4962-bd98-7c7e0f01871e/deploy-status)](https://app.netlify.com/sites/sfstroke/deploys)
 
 We are deployed on Netlify using Forester CMS for content with and use
-Themefisher and the new Hugo module support that pulls from their repo
+Themefisher and the new Hugo module support that pulls from their repo. This
+uses the basic template from [@richtong](https://github.com/richtong)
 
 To snapshot those modules, you can use
 [Hugo](https://gohugo.io/commands/hugo_mod_vendor/) to do this with a single
