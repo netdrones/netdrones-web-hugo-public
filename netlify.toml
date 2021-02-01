@@ -5,3 +5,7 @@
 [build.environment]
 #   HUGO_VERSION = "0.74.3"
    HUGO_VERSION = "0.80.0"
+   # This actually has to get set in the netlify site
+   # Since this file is read to late
+   # https://community.netlify.com/t/builds-fail-after-new-commit-to-git-lfs/1362/6
+   GIT_LFS_ENABLED = "true"
