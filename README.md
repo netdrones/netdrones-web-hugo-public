@@ -1,6 +1,6 @@
 # SF Stroke Center Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/275af3c3-9f6f-4962-bd98-7c7e0f01871e/deploy-status)](https://app.netlify.com/sites/sfstroke/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f5d9e59b-cd9e-434a-9820-9a31e78432bd/deploy-status)](https://app.netlify.com/sites/sfstroke/deploys)
 
 We are deployed on Netlify using Forester CMS for content with and use
 Themefisher and the new Hugo module support that pulls from their repo. This
