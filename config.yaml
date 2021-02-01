@@ -1,7 +1,7 @@
 ---
 baseURL: "/"
 languageCode: en-us
-title: Responsible.org
+title: San Francisco Stroke Center
 module:
   mounts:
   - source: static
@@ -52,23 +52,22 @@ params:
   # Note that with Layout = 2, only posts are shown and featured is hidden
   # With layout 1, the feature appears in a rotating gallery above the others.
   layout: "2"
-  description: Responsible.org Website
+  description: San Francisco Stroke Center
   preloader: true
   search: true
-  author: Responsible.org
+  author: San Francisco Stroke Center
   author_image: images/nathan-dumlao-4_mJ1TbMK8A-unsplash.jpg
   bio: |
-    Responsible.org&trade; promotes responsible gun purchase, ownership, and use. We
-    feature information on public policy and legislative issues as well as research
-    services in the field. We also organize educational events focused on responsible
-    gun ownership. We conduct virtual and in-person seminars, lectures, workshops,
-    panel discussions and forums.
+    San Francisco Stroke Center&trade; at sfstroke.com&trade; 
+    is a comprehensive resource for patients who have suffered a stroke and need access
+    to the most advanced resources available. Our physicians evaluate, diagnose
+    and treat stroke and other diseases that affect the blood vessels in the brain.
   mobile: "(307) 463-1680"
-  email: info@responsible.org
-  address: 15433 NE 95th St, Redmond, WA 98052
+  email: sfstrokecenter@gmail.com
+  address: 30 Gold Mine Drive, Ste 1000, San Francisco CA 94131
   contact_form_action: "#"
   google_analitycs_id: Your ID
-  copyright: Copyright &copy; 2018-2020 Responsible.org&trade;.Theme by [themefisher.com](https://themefisher.com)
+  copyright: Copyright &copy; 2020-2021 San Franciso Stroke Center&trade;.Theme by [themefisher.com](https://themefisher.com)
   # puts an instagram feed at the bottom, need an access token
   instafeed:
     enable: false
@@ -81,7 +80,7 @@ params:
   - icon: ti-linkedin
     URL: https://linkedin.com
   - icon: ti-github
-    URL: https://github.com/responsible-org
+    URL: https://github.com/sfstroke
 menu:
   main:
   - name: About
