@@ -49,7 +49,7 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/responsible.org.logo.medium.png
+  logo: images/sfstroke.com.logo.medium.png
   home: Home
   # Note that with Layout = 2, only posts are shown and featured is hidden
   # With layout 1, the feature appears in a rotating gallery above the others.
