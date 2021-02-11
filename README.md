@@ -13,7 +13,7 @@ command which adds all the modules currently running and puts them into
 
 ```bash
 hugo mod vendor
-```
+hugo mod gen
 
 ## Installation into netlify
 
