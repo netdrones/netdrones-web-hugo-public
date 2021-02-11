@@ -3,11 +3,14 @@
 # work for the test site
 baseURL: "https://sfstroke.com"
 languageCode: en-us
-title: San Francisco Stroke Center
+title: Mercuries.ai
 module:
   mounts:
   - source: static
     target: static
+    # there is a bug as of Feb 2021 where if you mount below static, you 
+    # need to explicitly override it here otherwise the exampleSite mount does
+    # not take
   - source: static/images
     target: static/images
   imports:
@@ -49,27 +52,27 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/sfstroke.com.logo.medium.png
+  logo: images/mercuries_icon_blue_small.png
   home: Home
   # Note that with Layout = 2, only posts are shown and featured is hidden
   # With layout 1, the feature appears in a rotating gallery above the others.
   layout: "2"
-  description: San Francisco Stroke Center
+  description: Mercuries.ai
   preloader: true
   search: true
-  author: San Francisco Stroke Center
+  author: Mercuries.ai
   author_image: images/nathan-dumlao-4_mJ1TbMK8A-unsplash.jpg
   bio: |
-    San Francisco Stroke Center&trade; at sfstroke.com&trade;
-    is a comprehensive resource for patients who have suffered a stroke and need access
-    to the most advanced resources available. Our physicians evaluate, diagnose
-    and treat stroke and other diseases that affect the blood vessels in the brain.
-  mobile: "(307) 463-1680"
-  email: sfstrokecenter@gmail.com
-  address: 30 Gold Mine Drive, Ste 1000, San Francisco CA 94131
+    Mercuries&trade; 
+    is leading edge technology company focused on the latest advances in 
+    artificial intelligence, machine learning, computer vision, hardware sensing 
+    and cloud integration.
+  mobile: 858-848-9029
+  email: info@mercuries.ai
+  address: 1536 3rd St Kirkland WA 98033
   contact_form_action: "#"
-  google_analytics_id: Your ID
-  copyright: Copyright &copy; 2020-2021 San Franciso Stroke Center&trade;.Theme by [themefisher.com](https://themefisher.com)
+  google_analitycs_id: Your ID
+  copyright: Copyright &copy; 2020-2021 Mercuries&trade;, LLC. Theme by [themefisher.com](https://themefisher.com)
   # puts an instagram feed at the bottom, need an access token
   instafeed:
     enable: false
@@ -82,7 +85,7 @@ params:
   - icon: ti-linkedin
     URL: https://linkedin.com
   - icon: ti-github
-    URL: https://github.com/sfstroke
+    URL: https://github.com/mercuries-ai
 menu:
   main:
     - name: Home

@@ -1,6 +1,6 @@
-# SF Stroke Center Website
+# Mercuries.ai Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f5d9e59b-cd9e-434a-9820-9a31e78432bd/deploy-status)](https://app.netlify.com/sites/sfstroke/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5c4a9508-2a50-4a21-812e-fd0d7198ea3c/deploy-status)](https://app.netlify.com/sites/mercuries/deploys)
 
 We are deployed on Netlify using Forester CMS for content with and use
 Themefisher and the new Hugo module support that pulls from their repo. This
