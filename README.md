@@ -35,25 +35,17 @@ netlify link
 netlify env:set GIT_LFS_ENABLED true
 ``````
 
-## Installation into netlify
+## Updating to latest theme
 
-The steps are:
+The theme is pinned in [go.mod](go.mod) and this is set in
+[config.yaml](config.yaml) in the module.imports.path location
+to update the modules, run as [Hugo Modules](https://gohugo.io/hugo-modules/use-modules/)
+explains:
 
-1. Fork this repo into a the new organization
-2. Run `make netlify` to make sure variables are set. This requires the @richtong
-   fabulous [bin](https://github.com/richtong/bin)
-   [lib](https://github.com/richtong/lib) helper repos
-
-If you do not use these then run, this repo uses Git LFS so run:
-
-```bash
-brew install netlify-cli
-# Normally for free accounts, you have a separate login per site
-netlify login
-# links this to netlify
-netlify link
-netlify env:set GIT_LFS_ENABLED true
-``````
+```shell
+hugo mod get -u ./...
+hugo mod vendor
+```
 
 ## How to use this template
 
@@ -94,18 +86,6 @@ These appear in the top of the home page. So you can use this for various
 features and product sections. Just change the entries in
 [content/blog](content/blog) and you should be able to change the products and
 features as needed.
-
-## Updating to latest theme
-
-The theme is pinned in [go.mod](go.mod) and this is set in
-[config.yaml](config.yaml) in the module.imports.path location
-to update the modules, run as [Hugo Modules](https://gohugo.io/hugo-modules/use-modules/)
-explains:
-
-```shell
-hugo mod get -u ./...
-hugo mod vendor
-```
 
 There are certain pages that are overridden by the theme, you will have to do a
 manual merge to get these correct. So compare the files in [layouts](layouts)
