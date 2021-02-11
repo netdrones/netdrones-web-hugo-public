@@ -35,6 +35,26 @@ netlify link
 netlify env:set GIT_LFS_ENABLED true
 ``````
 
+## Installation into netlify
+
+The steps are:
+
+1. Fork this repo into a the new organization
+2. Run `make netlify` to make sure variables are set. This requires the @richtong
+   fabulous [bin](https://github.com/richtong/bin)
+   [lib](https://github.com/richtong/lib) helper repos
+
+If you do not use these then run, this repo uses Git LFS so run:
+
+```bash
+brew install netlify-cli
+# Normally for free accounts, you have a separate login per site
+netlify login
+# links this to netlify
+netlify link
+netlify env:set GIT_LFS_ENABLED true
+``````
+
 ## How to use this template
 
 There are two different layouts:
