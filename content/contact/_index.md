@@ -5,6 +5,7 @@ description: Contact Form
 image: images/e7c028ab-3657-422f-af26-561901267226.jpeg
 
 ---
-For questions, membership, and other information, please fill out this form and we get back to you as soon as possible.
+For inquires, questions, comments, and other information, please fill out this
+form and we get back to you as soon as possible.
 
-Thanks, from the team at responsible.org&trade;, for taking the time.
+Thanks for taking the time!

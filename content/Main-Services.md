@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Strategy Consulting and Services
 date: 2019-05-30T14:46:10+06:00
 description: Services
 type: post
