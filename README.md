@@ -6,8 +6,8 @@ We are deployed on Netlify using Forester CMS for content with and use
 Themefisher and the new Hugo module support that pulls from their repo. This
 uses the basic template from [@richtong](https://github.com/richtong)
 
-To snapshot those modules, you can use
-[Hugo](https://gohugo.io/commands/hugo_mod_vendor/) to do this with a single
+To snapshot those modules, you can use [Hugo Mod
+Vendor](https://gohugo.io/commands/hugo_mod_vendor/) to do this with a single
 command which adds all the modules currently running and puts them into
 [_vendor](_vendor);
 
