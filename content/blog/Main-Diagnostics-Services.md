@@ -1,7 +1,7 @@
 ---
-title: Educational Services
+title: Diagnostic Services
 date: 2020-12-16T23:58:00+00:00
-description: Education Service Summary
+description: Diagnositc Service Summary
 type: post
 image: images/susan-yin-2JIvboGLeho-unsplash.jpg
 categories:
@@ -14,9 +14,8 @@ tags:
 - forum
 
 ---
-At Responsible.org&trade;, we offer a wide variety of educational services.
-Although the COVID-19 Pandemic has severely restricted our ability to offer
-these, we hope to restart as these as soon as possible, so please stay tuned.
+At SF Stroke&trade;, we offer a wide variety of diagnostic services.
+
 
 Normally we offer a variety of educations services including:
 
