@@ -1,7 +1,7 @@
 ---
 # baseURL needs to be the real location of the system if it is / then it will
 # work for the test site
-baseURL: "https://sfstroke.com"
+baseURL: "https://responsible.org"
 languageCode: en-us
 title: San Francisco Stroke Center
 module:
@@ -85,10 +85,10 @@ params:
     URL: https://github.com/sfstroke
 menu:
   main:
-    - name: Home
-      url: ''
-      weight: 1
     # the placeholders for how to do submenus
+    #- name: Homepage
+      #url: ''
+      #weight: 1
       #hasChildren: true
     # How to link pages to the submenus
     #- parent: Homepage
