@@ -1,7 +1,7 @@
 ---
 # baseURL needs to be the real location of the system if it is / then it will
 # work for the test site
-baseURL: "https://sfstroke.com"
+baseURL: "https://mercuries.ai"
 languageCode: en-us
 title: Mercuries.ai
 module:
