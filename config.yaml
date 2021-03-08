@@ -1,9 +1,9 @@
 ---
 # baseURL needs to be the real location of the system if it is / then it will
 # work for the test site
-baseURL: "https://mercuries.ai"
+baseURL: "https://netdron.es"
 languageCode: en-us
-title: Mercuries.ai
+title: NetDrones
 module:
   mounts:
   - source: static
@@ -52,27 +52,27 @@ params:
     - link: plugins/search/fuse.min.js
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
-  logo: images/mercuries_icon_blue_small.png
+  logo: images/noun_Drone_1764693_64x64.png
   home: Home
   # Note that with Layout = 2, only posts are shown and featured is hidden
   # With layout 1, the feature appears in a rotating gallery above the others.
   layout: "2"
-  description: Mercuries.ai
+  description: NetDrones
   preloader: true
   search: true
-  author: Mercuries.ai
-  author_image: images/guillaume-jaillet-Nl-GCtizDHg-unsplash.jpg
+  author: NetDrones 
+  author_image: images/andre-benz-BjdLaT-_rNE-unsplash_640x480.png
   bio: |
-    Mercuries&trade; 
-    is leading edge technology company focused on the latest advances in 
-    artificial intelligence, machine learning, computer vision, hardware sensing 
-    and cloud integration.
+    NetDrones&trade; 
+    is leading edge technology company building the future of  
+    everything that moves including artificial intelligence, machine
+    learning, computer vision, hardware sensing and cloud integration.
   mobile: 858-848-9029
-  email: info@mercuries.ai
+  email: info@netdron.es
   address: 1536 3rd St Kirkland WA 98033
   contact_form_action: "#"
   google_analitycs_id: Your ID
-  copyright: Copyright &copy; 2020-2021 Mercuries&trade;, LLC. Theme by [themefisher.com](https://themefisher.com)
+  copyright: Copyright &copy; 2021 NetDrones&trade;, LLC. Theme by [themefisher.com](https://themefisher.com)
   # puts an instagram feed at the bottom, need an access token
   instafeed:
     enable: false
@@ -85,7 +85,7 @@ params:
   - icon: ti-linkedin
     URL: https://linkedin.com
   - icon: ti-github
-    URL: https://github.com/mercuries-ai
+    URL: https://github.com/netdrones
 menu:
   main:
     - name: Home
