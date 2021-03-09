@@ -2,7 +2,7 @@
 # baseURL needs to be the real location of the system if it is / then it will
 # baseURL: "https://netdron.es" # for some reason netlify does not like the .es
 # domains
-baseURL: "https://netdrones.ai"
+baseURL: "https://netdron.es"
 languageCode: en-us
 title: NetDrones
 module:
