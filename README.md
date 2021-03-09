@@ -1,6 +1,6 @@
 # Mercuries.ai Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5c4a9508-2a50-4a21-812e-fd0d7198ea3c/deploy-status)](https://app.netlify.com/sites/mercuries/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/878de4cd-cb5e-452b-8e92-ee76dfd86c59/deploy-status)](https://app.netlify.com/sites/netdrones/deploys)
 
 We are deployed on Netlify using Forester CMS for content with and use
 Themefisher and the new Hugo module support that pulls from their repo. This
@@ -16,6 +16,9 @@ hugo mod vendor
 hugo mod gen
 
 ## Installation into netlify
+
+Also note that the netlify.yaml is deprecated, so use netlify.toml for
+configuration
 
 The steps are:
 
