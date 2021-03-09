@@ -1,0 +1,7 @@
+build:
+  publish: public
+  command: hugo --gc --minify
+  environment:
+    HUGO_VERSION: 0.80.0
+    # This has to be run with netlify env:
+    #GIT_LFS_ENABLED: 'true'
