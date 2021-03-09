@@ -1,6 +1,6 @@
 ---
 # baseURL needs to be the real location of the system if it is / then it will
-baseURL: "https://netdron.es"
+baseURL: "https://netdrones.ai"
 languageCode: en-us
 title: NetDrones
 module:
