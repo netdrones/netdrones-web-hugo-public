@@ -4,7 +4,7 @@ date: 2019-05-30T14:46:10+06:00
 description: Hardware
 type: post
 image: images/frank-wang-2mVEwwcao_Y-unsplash.jpg
-categories: 
+categories:
   - product
 tags:
   - hardware

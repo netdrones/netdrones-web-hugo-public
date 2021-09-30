@@ -4,7 +4,7 @@ date: 2019-06-14T14:46:10+06:00
 description: Handling Massive Sensor Databases
 type: post
 image: images/syed-hussaini-rx3RnrRl4S0-unsplash.jpg
-categories: 
+categories:
   - product
 tags:
   - data

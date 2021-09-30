@@ -7,7 +7,7 @@ paginate = 5
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
-# if you have a theme then you need to fork 
+# if you have a theme then you need to fork
 # https://github.com/themefisher/parsa/hugo into themes
 # theme = "parsa-hugo"
 # using the module mounting to get modules instead of the themes

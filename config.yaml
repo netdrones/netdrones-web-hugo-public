@@ -9,7 +9,7 @@ module:
   mounts:
   - source: static
     target: static
-    # there is a bug as of Feb 2021 where if you mount below static, you 
+    # there is a bug as of Feb 2021 where if you mount below static, you
     # need to explicitly override it here otherwise the exampleSite mount does
     # not take
   - source: static/images
@@ -61,11 +61,11 @@ params:
   description: NetDrones
   preloader: true
   search: true
-  author: NetDrones 
+  author: NetDrones
   author_image: images/andre-benz-BjdLaT-_rNE-unsplash_640x480.png
   bio: |
-    NetDrones&trade; 
-    is leading edge technology company building the future of  
+    NetDrones&trade;
+    is leading edge technology company building the future of
     everything that moves including artificial intelligence, machine
     learning, computer vision, hardware sensing and cloud integration.
   mobile: 858-848-9029
