@@ -79,11 +79,11 @@ params:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   social:
   - icon: ti-facebook
-    URL: https://facebook.com
+    URL: https://facebook.com/netdrones0
   - icon: ti-twitter-alt
-    URL: https://twitter.com
+    URL: https://twitter.com/netdrones0
   - icon: ti-linkedin
-    URL: https://linkedin.com
+    URL: https://linkedin.com/company/netdrones
   - icon: ti-github
     URL: https://github.com/netdrones
 menu:
