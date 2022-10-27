@@ -8,4 +8,4 @@ layout: "contact"
 For questions, partnerships, and other information, please fill out this form and
 we get back to you as soon as possible.
 
-Thanks, from the team at NetDrones&trade;, for taking the time.
+Thanks, from the team at NetDrones.ai&trade;, for taking the time.
