@@ -2,9 +2,9 @@
 # baseURL needs to be the real location of the system if it is / then it will
 # baseURL: "https://netdron.es" # for some reason netlify does not like the .es
 # domains
-baseURL: "https://netdron.es"
+baseURL: "https://netdrones.ai"
 languageCode: en-us
-title: NetDrones
+title: NetDrones.ai
 module:
   mounts:
   - source: static
@@ -61,18 +61,18 @@ params:
   description: NetDrones
   preloader: true
   search: true
-  author: NetDrones
+  author: NetDrones.ai
   author_image: images/andre-benz-BjdLaT-_rNE-unsplash_640x480.png
   bio: |
-    NetDrones&trade;
+    NetDrones.ai&trade;
     is leading edge software company leading the way in artificial intelligence, 
     robotics, cloud services and the decentralized application world.
   mobile: 858-848-9029
-  email: info@netdron.es
+  email: info@netdrones.ai
   address: 1536 3rd St Kirkland WA 98033
   contact_form_action: "#"
   google_analitycs_id: Your ID
-  copyright: Copyright &copy; 2021 NetDrones&trade;, LLC. Theme by [themefisher.com](https://themefisher.com)
+  copyright: Copyright &copy; 2021 NetDrones.ai&trade;, Inc. Theme by [themefisher.com](https://themefisher.com)
   # puts an instagram feed at the bottom, need an access token
   instafeed:
     enable: false
