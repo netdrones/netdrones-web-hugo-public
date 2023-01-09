@@ -5,7 +5,7 @@ description: About Page
 image: images/my-life-through-a-lens-bq31l0jqaju-unsplash.jpg
 ---
 
-NetDrones.ai&trade; is a dedicated team of experienced professionals.^        
+NetDrones.ai&trade; is a dedicated team of experienced professionals.^
 We have decades of experience in building large scale systems that have
 affected the lives of millions if not billions of people. Whether you are a
 startup or a Fortune 500 multinational, we have the expertise to work with you.
